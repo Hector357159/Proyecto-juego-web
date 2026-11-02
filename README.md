@@ -17,8 +17,8 @@ La entrega de la **Semana 2 — Vibecoding** incluye el documento
 
 <table>
   <tr>
-    <td><img src="capturas/menu.png" width="300" alt="Menú principal con el torogoz posado"></td>
-    <td><img src="capturas/juego.png" width="300" alt="Partida entre troncos de ceiba"></td>
+    <td><img src="referencias/capturas/menu.png" width="300" alt="Menú principal con el torogoz posado"></td>
+    <td><img src="referencias/capturas/juego.png" width="300" alt="Partida entre troncos de ceiba"></td>
   </tr>
   <tr>
     <td align="center"><em>Menú con el torogoz animado</em></td>
@@ -30,14 +30,6 @@ La entrega de la **Semana 2 — Vibecoding** incluye el documento
 
 **Opción 1 — doble clic:** abre `index.html` en cualquier navegador moderno. No necesita instalación ni conexión.
 
-**Opción 2 — servidor local (recomendado):**
-
-```bash
-python3 servir.py        # abre http://localhost:8000
-python3 servir.py 9000   # otro puerto
-```
-
-El servidor escucha solo en `127.0.0.1` (tu equipo), no en toda la red local.
 
 El juego es 100 % HTML, CSS y JavaScript; no usa frameworks ni dependencias externas.
 
@@ -59,8 +51,8 @@ El juego es 100 % HTML, CSS y JavaScript; no usa frameworks ni dependencias exte
 
 <table>
   <tr>
-    <td><img src="capturas/game-over.png" width="300" alt="Pantalla de game over con medalla"></td>
-    <td><img src="capturas/opciones.png" width="300" alt="Pantalla de opciones"></td>
+    <td><img src="referencias/capturas/game-over.png" width="300" alt="Pantalla de game over con medalla"></td>
+    <td><img src="referencias/capturas/opciones.png" width="300" alt="Pantalla de opciones"></td>
   </tr>
   <tr>
     <td align="center"><em>Game over con medalla</em></td>
