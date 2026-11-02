@@ -1,0 +1,17 @@
+# Python (servir.py genera caché)
+__pycache__/
+*.pyc
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+.opencode/
+
+# Archivos temporales
+*.log
+*.tmp

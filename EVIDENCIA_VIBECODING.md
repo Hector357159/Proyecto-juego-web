@@ -94,17 +94,6 @@ Mi regla fue no aceptar código que no pudiera explicar o probar. Cuando la IA p
 
 ---
 
-### Prompt 6 — Documentación y verificación
-
-> Documenta el proyecto en español: cómo ejecutarlo, controles, reglas, estructura de archivos y créditos. Agrega un servidor local opcional en Python para quien no quiera abrir el archivo directamente. Genera capturas reales del menú, la partida, el game over y las opciones. Revisa que no haya errores en consola y que funcione también con `file://`.
-
-**Qué pedí:** cerrar la entrega con documentación clara y una verificación fuera de mi entorno de desarrollo.
-
-**Por qué lo ajusté o refiné:** la actividad pedía README y evidencia. Además, quería comprobar que el juego no dependiera de un servidor o de una configuración especial. Por eso pedí explícitamente la prueba con `file://` y la revisión de errores en consola.
-
-**Resultado:** se creó el `README.md`, el servidor `servir.py`, las capturas y las pruebas automatizadas. El juego funciona abriendo el archivo directamente y también con el servidor local.
-
----
 
 ## 4. Iteración y mejora
 
